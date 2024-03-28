@@ -1,5 +1,3 @@
-Certainly! Below is a sample README.md file description for a repository containing practice programs of Python based on real-world scenarios:
-
 ---
 
 # Python Practice Programs: Real-World Scenarios
@@ -41,4 +39,3 @@ This repository is licensed under the MIT License. Feel free to use the code for
 
 ---
 
-Feel free to customize this README.md file according to your repository's specific content and goals.
